@@ -101,10 +101,13 @@ nav{
    margin-top:50px;
     
    padding:0px 30px;
-   border: 1px solid rgba(241, 235, 235, 0.575);
-   /* border-right: none;   
-   border-left: none; */
+   border: 0.2px solid rgba(230, 101, 161, 0.267);
+   
+   border-left: none;
+   border-right: none;
+  
 }
+
 .client-pic{
     margin-left: 30px;
 }
