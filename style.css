@@ -101,7 +101,9 @@ nav{
    margin-top:50px;
     
    padding:0px 30px;
-   border: 1px solid rgba(241, 235, 235, 0.575);   
+   border: 1px solid rgba(241, 235, 235, 0.575);
+   /* border-right: none;   
+   border-left: none; */
 }
 .client-pic{
     margin-left: 30px;
@@ -228,10 +230,12 @@ font-size: 28px;
 footer{
     background-color:rgb(11, 11, 71);
     color:white;
-    height: 150px;
+    height: 200px;
     display: flex;
     justify-content: center;
     text-align: center;
+    align-items: center;
+
 }
 .footer-content{
     margin-bottom: 10px;
