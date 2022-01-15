@@ -165,6 +165,12 @@ font-size: 28px;
 .product-price{
     font-size: 24px;
 }
+.rating-point{
+    color: #787885;
+    font-size: 14px;
+    font-weight: 700;
+}
+
 .product-summary p{
     color: #787885;
     font-weight: 700;
@@ -178,8 +184,9 @@ font-size: 28px;
 .fa-star.filled{
     color: #FFC014;
 }
-.fa-star.empty{
-    color:#AEAEAE;
+.fa-star-half-alt{
+    font-size: 12px;
+    color:#FFC014;
 }
 .see-more{
     font-size: 16px;
@@ -187,7 +194,7 @@ font-size: 28px;
     text-decoration: none;
     color:#E02C6DDE;
     display: flex;
-    justify-content: right;
+    justify-content: flex-end;
     align-items: center;
 }
 
